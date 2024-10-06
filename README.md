@@ -7,7 +7,7 @@ Currently, I’m working on building a large system for intelligent path plannin
   - Electrical Engineering
   - Computer Science (Double major)
 
-▪︎ **<a href="https://hansungsh.sen.hs.kr/">Hanusng Science High school</a>**, Seoul, South Korea [03.2016 ~ 02.2019]
+▪︎ **<a href="https://hansungsh.sen.hs.kr/">Hanusng Science High School</a>**, Seoul, South Korea [03.2016 ~ 02.2019]
 
 ## 🔭 **Research Interests**
 TAMP(Task and Motion Planning), LMMs(Large Multimodal Models), Behavior Trees in Robotics, and Vision module fine-tuning.
