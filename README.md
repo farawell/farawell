@@ -1,5 +1,5 @@
 ### Hi👋 I'm John Park
-I’m currently an undergraduate researcher at Robust Intelligence and Robotics (RIRO) Laboratory at KAIST CS, under the guidance of Professor Daehyung Park. I'm currently participating in a research about intelligent robot path planning. But my research interests are broad, including TAMP(Task and Motion Planning), AI Vision, HRI(Human Robot Interaction), and LMMs(Large Multimodal Models), and behavior trees.
+I’m currently an undergraduate researcher at Robust Intelligence and Robotics (RIRO) Laboratory at KAIST CS, under the guidance of Professor Daehyung Park. I'm currently participating in a research about intelligent robot path planning. But my research interests are broad, including TAMP(Task and Motion Planning), AI Vision, HRI(Human Robot Interaction), LMMs(Large Multimodal Models), and behavior trees.
 <!--
 **farawell/farawell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
