@@ -5,7 +5,7 @@ Currently, I’m working on building a large system for intelligent path plannin
 ## 🖋️ **Education**
 ▪︎ **<a href="https://www.kaist.ac.kr/en/">KAIST</a>**, Daejeon, South Korea [02.2019 ~ present]
   - <a href="https://ee.kaist.ac.kr/en/">Electrical Engineering</a>
-  - <a href="https://cs.kaist.ac.kr/">School of Computing</a> (Double major)
+  - <a href="https://cs.kaist.ac.kr/">Computer Science</a> (Double major)
 
 ▪︎ **<a href="https://hansungsh.sen.hs.kr/">Hanusng Science High School</a>**, Seoul, South Korea [03.2016 ~ 02.2019]
 
