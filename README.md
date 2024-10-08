@@ -10,7 +10,7 @@ Currently, I’m working on building a large system for intelligent path plannin
 ▪︎ **<a href="https://hansungsh.sen.hs.kr/">Hansung Science High School</a>**, Seoul, South Korea [03.2016 ~ 02.2019]
 
 ## 🔭 **Research Interests**
-TAMP(Task and Motion Planning), Behavior Trees in Robotics, LMMs(Large Multimodal Models), and Robot Vision.
+TAMP (Task and Motion Planning), Behavior Trees in Robotics, LMMs (Large Multimodal Models), and Robot Vision.
 
 ## 💻 **Tech skills**
 ▪︎ Computer languages
