@@ -21,9 +21,10 @@ TAMP(Task and Motion Planning), Behavior Trees in Robotics, LMMs(Large Multimoda
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white">  <img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white">
 
-▪︎ Tools
+▪︎ Tools anaconda
 
-<img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=plastic&logo=adobexd&logoColor=white">  
+<img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=plastic&logo=adobexd&logoColor=white">  
 
 ▪︎ OS
 
