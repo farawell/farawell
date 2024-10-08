@@ -23,7 +23,7 @@ TAMP(Task and Motion Planning), Behavior Trees in Robotics, LMMs(Large Multimoda
 
 ▪︎ Tools
 
-<img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=plastic&logo=adobexd&logoColor=white">  
+<img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=plastic&logo=adobexd&logoColor=white">  
 
 ▪︎ OS
 
