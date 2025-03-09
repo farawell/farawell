@@ -1,6 +1,8 @@
 ### Hi👋 I'm John Park
 I am an undergraduate at KAIST, pursuing double majors in Electrical Engineering (EE) and School of Computing (SoC or CS—Computer Science). 
+
 My research focus is evolving toward intelligent robotics—the integration of artificial intelligence to develop advanced robotic systems. 
+
 I aim to explore innovative solutions in robotics and contribute meaningfully to the field.
 
 ## **Research Interests**
