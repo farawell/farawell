@@ -49,7 +49,7 @@ English (Proficient), Chinese (Intermediate), Korean (Native)
 
 ## **Fun facts**
 * 'Yohan (요한)' is the Korean translation of 'John,' so my legal Korean name is Yohan Park (박요한). But you can just call me John.
-* I've dreamed about working in the field of robotiscs since I was 12, and I have also <a href="http://m.irobotnews.com/news/articleView.html?idxno=9793">won the 1st prize</a> for my first Paper at KRoC 2017!
+* I've dreamed about working in the field of robotics since I was 12, and I have also <a href="http://m.irobotnews.com/news/articleView.html?idxno=9793">won the 1st prize</a> for my first Paper at KRoC 2017!
 
 ## 🔗 **"Hello world!\n"**
 💬 Ask me about anything and everything! Please feel free to reach out to me:
