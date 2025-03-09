@@ -23,7 +23,7 @@ Although my specific research domain remains to be precisely defined, my interes
   - Designed a comprehensive architecture diagram of the existing ROS-based navigation system of <a href="https://bostondynamics.com/products/spot/">Boston Dynamics' Spot</a>, covering perception, planning, and <a href="http://wiki.ros.org/move_base">move_base</a> modules for enhanced scalability.
   - Integrated <a href="https://docs.ros.org/en/kinetic/api/py_trees_ros/html/index.html">Behavior Trees (BT)</a> to boost system robustness and expandability.
   - Developed an RViz plugin for waypoint navigation, enabling the saving, visualization, and transmission of waypoints and routes.
-  - Fine-tuned a <a href="https://github.com/XuJiacong/PIDNet">semantic segmentation module</a> for campus navigation by collecting and annotating images with <a href="https://www.cvat.ai/">CVAT</a> and incorporating additional datasets.
+  - Fine-tuned a <a href="https://github.com/XuJiacong/PIDNet">semantic segmentation module</a> for KAIST campus navigation by collecting and annotating images with <a href="https://www.cvat.ai/">CVAT</a> and incorporating additional datasets.
   - Analyzed move_base’s local navigation plugin by investigating the <a href="https://wiki.ros.org/navigation">ROS navigation stack</a> and optimizing parameters for the <a href="https://wiki.ros.org/global_planner">global_planner</a> and <a href="https://wiki.ros.org/dwa_local_planner">dwa_local_planner</a>; replaced the latter with a <a href="https://github.com/leggedrobotics/viplanner">3rd-party local trajectory generation module</a>.
   - Conducted extensive literature reviews and developed supplementary system architecture diagrams.
 
