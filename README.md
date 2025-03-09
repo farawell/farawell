@@ -20,7 +20,7 @@ Although my specific research domain remains to be precisely defined, my interes
 
 ## **Research Experience**
 ▪︎ Research Intern of <a href="https://rirolab.kaist.ac.kr/">RIRO lab</a> @ KAIST SoC [Dec 2023 – Feb 2025] Under Prof. Daehyung Park
-  - Designed a comprehensive architecture diagram for the ROS-based navigation system of <a href="https://bostondynamics.com/products/spot/">Boston Dynamics' Spot</a>, covering perception, planning, and <a href="http://wiki.ros.org/move_base">move_base</a> modules for enhanced scalability.
+  - Designed a comprehensive architecture diagram of the existing ROS-based navigation system of <a href="https://bostondynamics.com/products/spot/">Boston Dynamics' Spot</a>, covering perception, planning, and <a href="http://wiki.ros.org/move_base">move_base</a> modules for enhanced scalability.
   - Integrated <a href="https://docs.ros.org/en/kinetic/api/py_trees_ros/html/index.html">Behavior Trees (BT)</a> to boost system robustness and expandability.
   - Developed an RViz plugin for waypoint navigation, enabling the saving, visualization, and transmission of waypoints and routes.
   - Fine-tuned a <a href="https://github.com/XuJiacong/PIDNet">semantic segmentation module</a> for campus navigation by collecting and annotating images with <a href="https://www.cvat.ai/">CVAT</a> and incorporating additional datasets.
