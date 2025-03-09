@@ -1,16 +1,26 @@
 ### Hi👋 I'm John Park
-I’m currently an undergraduate researcher at <a href="https://rirolab.kaist.ac.kr/">Robust Intelligence and Robotics Laboratory (RIRO lab)</a> in KAIST, School of Computing.
-Currently, I’m working on building a large system for intelligent path planning in quadrupedal robots.
+I am an undergraduate at KAIST, pursuing double majors in Electrical Engineering (EE) and School of Computing (SoC or CS—Computer Science). 
+My research focus is evolving toward intelligent robotics—the integration of artificial intelligence to develop advanced robotic systems. 
+I aim to explore innovative solutions in robotics and contribute meaningfully to the field.
 
-## 🖋️ **Education**
-▪︎ **<a href="https://www.kaist.ac.kr/en/">KAIST</a>**, Daejeon, South Korea [02.2019 ~ present]
+## **Research Interests**
+Task and Motion Planning (TAMP), LMMs (Large Multimodal Models), use of Behavior Trees (BT) for robust decision making, and robotic system for humanoids.
+
+## **Education**
+▪︎ **<a href="https://www.kaist.ac.kr/en/">KAIST</a>**, Daejeon, South Korea [02.2019 ~ 08.2025]
   - <a href="https://ee.kaist.ac.kr/en/">Electrical Engineering</a>
   - <a href="https://cs.kaist.ac.kr/">Computer Science</a> (Double major)
 
 ▪︎ **<a href="https://hansungsh.sen.hs.kr/">Hansung Science High School</a>**, Seoul, South Korea [03.2016 ~ 02.2019]
 
-## 🔭 **Research Interests**
-TAMP (Task and Motion Planning), Behavior Trees in Robotics, LMMs (Large Multimodal Models), and Robot Vision.
+## **Research Experience**
+▪︎ Research Intern: <a href="https://rirolab.kaist.ac.kr/">RIRO lab</a> @ KAIST SoC (Dec 2023 – Feb 2025) Under Prof. Daehyung Park
+  - Designed a comprehensive architecture diagram for the ROS-based navigation system of <a href="https://bostondynamics.com/products/spot/">Boston Dynamics' Spot</a>, covering perception, planning, and <a href="http://wiki.ros.org/move_base">move_base</a> modules for enhanced scalability.
+  - Integrated <a href="https://docs.ros.org/en/kinetic/api/py_trees_ros/html/index.html">Behavior Trees (BT)</a> to boost system robustness and expandability.
+  - Developed an RViz plugin for waypoint navigation, enabling the saving, visualization, and transmission of waypoints and routes.
+  - Fine-tuned a semantic segmentation module for campus navigation by collecting and annotating images with <a href="https://www.cvat.ai/">CVAT</a> and incorporating additional datasets.
+  - Analyzed move_base’s local navigation plugin by investigating the <a href="https://wiki.ros.org/navigation">ROS navigation stack</a> and optimizing parameters for the <a href="https://wiki.ros.org/global_planner">global_planner</a> and <a href="https://wiki.ros.org/dwa_local_planner">dwa_local_planner</a>; replaced the latter with a <a href="https://github.com/leggedrobotics/viplanner">3rd-party local trajectory generation module</a>.
+  - Conducted extensive literature reviews and developed supplementary system architecture diagrams.
 
 ## 💻 **Tech skills**
 ▪︎ Computer languages
@@ -31,7 +41,7 @@ TAMP (Task and Motion Planning), Behavior Trees in Robotics, LMMs (Large Multimo
 
 
 ## 🌏 **Languages**
-English(Proficient), Chinese(Intermediate), Korean(Native)
+English (Proficient), Chinese (Intermediate), Korean (Native)
 
 ## 🔗 **"Hello world!\n"**
 💬 Ask me about anything and everything! Please feel free to reach out to me.
