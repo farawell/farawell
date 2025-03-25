@@ -1,13 +1,9 @@
 ### Hi👋 I'm John Park
 I’m an undergraduate at KAIST, double majoring in Electrical Engineering (EE) and Computer Science (CS).
 
-I’m interested in **intelligent perception systems** that can be applied in the field of robotics—how machines can perceive and interpret our 3D world based on complex, multi-modal sensory data.
+I’m interested in **intelligent perception systems** that can be applied in the field of robotics—how machines can perceive and interpret our 3D world based on complex, multi-modal sensory data. My focus lies in the **software and algorithmic aspects** of robotics, rather than hardware.
 
-My focus lies in the **software and algorithmic aspects** of robotics, rather than hardware.
-
-I believe that true robotic innovation begins with **multi-modal perception**: systems that can robustly **understand their surroundings** by integrating multiple sensory modalities.
-
-Think about it—humans don’t rely solely on vision (While it's the most important information); we use every part of our sensory system altogether.
+I believe that true robotic innovation begins with **multi-modal perception**: systems that can robustly **understand their surroundings** by integrating multiple sensory modalities. Think about it—humans don’t rely solely on vision (While it's the most important information); we use every part of our sensory system altogether.
 
 ## **Research Interests**
 While I continue refining my specific research direction, my current interests include:
