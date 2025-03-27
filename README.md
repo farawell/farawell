@@ -1,16 +1,16 @@
 ### Hi👋 I'm John Park
 I’m an undergraduate at KAIST, double majoring in Electrical Engineering (EE) and Computer Science (CS).
 
-I’m interested in building AI system that can be applied in the field of robotics—how machines can perceive, interpret and act in our world based on complex, multi-modal sensory data. My focus lies in the **software and algorithmic aspects** of robotics, rather than hardware.
+I’m interested in building AI system that can be applied in the field of robotics—how machines can perceive and interpret our world based on sensory data of multi-modality. My focus lies in the **software and algorithmic aspects** of robotics, rather than hardware.
 
 I believe that true robotic innovation begins with **multi-modal perception**: systems that can robustly **understand their surroundings** by integrating multiple sensory modalities. Think about it—humans don’t rely solely on vision (While it's the most important information); we use every part of our sensory system altogether.
 
 ## **Research Interests**
 While I continue refining my specific research direction, my current interests include:
 * Embodied AI
-* Large Multimodal Models (LMMs)
-* Foundation Models
-* Representation Learning
+* 3D Scene Understanding
+* Computer Vision
+* Multi-modal Learning
 
 ## **Education**
 ▪︎ **<a href="https://www.kaist.ac.kr/en/">KAIST</a>**, Daejeon, South Korea [Feb 2019 ~ Aug 2025 (Expected)]
