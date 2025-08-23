@@ -19,9 +19,9 @@ While I continue refining my specific research direction, my current interests i
 ▪︎ **<a href="https://hansungsh.sen.hs.kr/">Hansung Science High School</a>**, Seoul, South Korea [Mar 2016 ~ Feb 2019]
 
 ## **Research Experience**
-▪︎ Research Intern of <a href="https://ami.kaist.ac.kr/">KAIST AMI lab</a> @ KAIST SoC [Apr 2025 – Current] Under Prof. Tae-Hyun Oh
+▪︎ Research Intern of <a href="https://ami.kaist.ac.kr/">KAIST AMI lab</a> @ KAIST SoC [Apr 2025 – Current] Under <a href="https://scholar.google.com/citations?user=dMCBjeIAAAAJ&hl=en">Prof. Tae-Hyun Oh</a>
 
-▪︎ Research Intern of <a href="https://rirolab.kaist.ac.kr/">RIRO lab</a> @ KAIST SoC [Dec 2023 – Feb 2025] Under Prof. Daehyung Park
+▪︎ Research Intern of <a href="https://rirolab.kaist.ac.kr/">RIRO lab</a> @ KAIST SoC [Dec 2023 – Feb 2025] Under Prof. <a href="https://scholar.google.com/citations?user=5mWSk04AAAAJ&hl=en">Daehyung Park</a>
   - Fine-tuned a <a href="https://github.com/XuJiacong/PIDNet">semantic segmentation module</a> for KAIST campus navigation
   - Redesigned a scalable, multi-modal ROS-based robot navigation architecture for <a href="https://bostondynamics.com/products/spot/">Boston Dynamics' Spot</a> spanning perception to planning, integrating <a href="https://docs.ros.org/en/kinetic/api/py_trees_ros/html/index.html">Behavior Trees</a> into the existing planning system to enhance robustness
   - Developed an RViz plugin for waypoint navigation, streamlining the saving, visualization, and transmission of waypoints and routes to Behavior Trees, improving usability for robotic path planning
