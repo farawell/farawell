@@ -1,4 +1,4 @@
-### Hi👋 I'm John Park
+### Hi👋 I'm Yohan Park
 I’m an undergraduate at KAIST, double majoring in Electrical Engineering (EE) and Computer Science (CS).
 
 I’m interested in building AI system that can be applied in the field of robotics—how machines can perceive and interpret our world based on sensory data of multi-modality. My focus lies in the **software and algorithmic aspects** of robotics, rather than hardware.
