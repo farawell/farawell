@@ -1,4 +1,4 @@
-### Hi👋 I'm Yohan Park
+### Hi👋 I'm John Park
 I’m an undergraduate at KAIST, double majoring in Electrical Engineering (EE) and Computer Science (CS).
 
 I’m interested in building AI system that can be applied in the field of robotics—how machines can perceive and interpret our world based on sensory data of multi-modality. My focus lies in the **software and algorithmic aspects** of robotics, rather than hardware.
@@ -49,7 +49,7 @@ While I continue refining my specific research direction, my current interests i
 English (Proficient), Chinese (Intermediate), Korean (Native)
 
 ## **Fun facts**
-* 'Yohan (요한)' is the Korean translation of 'John,' so my legal Korean name is Yohan Park (박요한). But you can just call me John.
+* 'Yohan (요한)' is the Korean translation of 'John,' and my legal Korean name is Yohan Park (박요한). You can just call me John.
 * I've had passion about researching since I was 12, and I have also <a href="http://m.irobotnews.com/news/articleView.html?idxno=9793">won the 1st prize</a> for my first Paper at KRoC 2017!
 
 ## 🔗 **"Hello world!\n"**
