@@ -1,4 +1,4 @@
-### Hi👋 I'm John Park
+### Hi👋 I'm Yohan Park
 I’m a recent KAIST graduate with a B.S. in Electrical Engineering and Computer Science (double major).
 
 My research interests center on developing AI systems for embodied agents—enabling machines to perceive and interpret the world through multi-modal sensory data.
