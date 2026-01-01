@@ -41,19 +41,19 @@ My current focus is grounding multimodal perception (vision/3D) and natural-lang
   - Analyzed move_base’s local navigation plugin by investigating the <a href="https://wiki.ros.org/navigation">ROS navigation stack</a> and optimizing parameters for the <a href="https://wiki.ros.org/global_planner">global_planner</a> and <a href="https://wiki.ros.org/dwa_local_planner">dwa_local_planner</a>; replaced the latter with a <a href="https://github.com/leggedrobotics/viplanner">3rd-party local trajectory generation module</a>
 
 ## **Tech skills**
-▪︎ Programming languages
+- Programming languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white">  
 
-▪︎ Frameworks
+- Frameworks
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white">  <img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=plastic&logo=react&logoColor=white">
 
-▪︎ Tools
+- Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white">  <img src="https://img.shields.io/badge/CMake-064F8C?style=plastic&logo=cmake&logoColor=white">  <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=plastic&logo=adobexd&logoColor=white">  
 
-▪︎ OS
+- OS
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white">  <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macos&logoColor=white">
 
@@ -61,8 +61,8 @@ My current focus is grounding multimodal perception (vision/3D) and natural-lang
 English (Proficient), Chinese (Intermediate), German (Beginner), Korean (Native)
 
 ## **Fun facts**
-* 'Yohan (요한)' is the Korean translation of 'John,' and my legal Korean name is Yohan Park (박요한). Please feel free to call me John.
-* I <a href="http://m.irobotnews.com/news/articleView.html?idxno=9793">won the 1st prize</a> for my first paper (as a first author) at KRoC 2017!
+- 'Yohan (요한)' is the Korean translation of 'John,' and my legal Korean name is Yohan Park (박요한). Please feel free to call me John.
+- I <a href="http://m.irobotnews.com/news/articleView.html?idxno=9793">won the 1st prize</a> for my first paper (as a first author) at KRoC 2017!
 
 ## **"Hello world!\n"**
 💬 Please feel free to reach out to me:
