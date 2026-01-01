@@ -6,9 +6,9 @@ My current focus is grounding multimodal perception (vision/3D) and natural-lang
 ## Publications / Preprints
 - **DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**  
   **Yohan Park**, Hyunwoo Ha, Wonjun Jo, Tae-Hyun Oh  
+  Under review at IEEE RA-L.  
   [![arXiv](https://img.shields.io/badge/arXiv-2512.24985-b31b1b.svg)](https://arxiv.org/abs/2512.24985)
   [![PDF](https://img.shields.io/badge/PDF-download-blue.svg)](https://arxiv.org/pdf/2512.24985.pdf)  
-  Under review at IEEE RA-L.
 
 - **Reactive Constraint Relaxation for Urban Environment Navigation**  
   Jinwoo Kim, Keonyoung Koh, Samuel Seungsup Lee, **Yohan Park**, Daehyung Park  
