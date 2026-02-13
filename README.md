@@ -1,7 +1,7 @@
 ### Hi, I'm Yohan Park
-I’m an incoming M.S. student at KAIST's <a href="https://ami.kaist.ac.kr/">AMI (Advanced Machine Intelligence) Lab</a> advised by Prof. <a href="https://scholar.google.com/citations?user=dMCBjeIAAAAJ&hl=en">Tae-Hyun Oh</a>, and a recent KAIST graduate with a B.S. in Electrical Engineering and Computer Science (double major).
+I am an incoming M.S. student at KAIST's <a href="https://ami.kaist.ac.kr/">AMI (Advanced Machine Intelligence) Lab</a> advised by Prof. <a href="https://scholar.google.com/citations?user=dMCBjeIAAAAJ&hl=en">Tae-Hyun Oh</a>. I work on _**computer vision**_ and _**multimodal learning**_ with a focus on _**embodied AI**_. My interests span the perception-to-action stack, emphasizing 3D scene understanding and scene/task representations that support reliable long-horizon planning and execution.
 
-My current focus is grounding multimodal perception (vision/3D) and natural-language instructions into reliable long-horizon behavior for embodied agents.
+Looking ahead, I aim to build human-like embodied systems that can generate high-level plans from instructions and perception, acquire new atomic skills, refine them at the action level from both observation and interaction using multimodal perceptual signals, and hierarchically compose these skills to execute the plans.
 
 ## Publications / Preprints
 - **DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**  
