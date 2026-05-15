@@ -4,7 +4,7 @@ I am an M.S. student at KAIST's <a href="https://ami.kaist.ac.kr/">AMI (Advanced
 Looking ahead, I aim to build human-like embodied systems that can generate high-level plans from instructions and perception, acquire new atomic skills, refine them at the action level from both observation and interaction using multimodal perceptual signals, and hierarchically compose these skills to execute the plans.
 
 ## Publications / Preprints
-- **DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**  
+- **DarkQA:Benchmarking Vision-Language Models for Visual-Primitive Question Answering in Low-Light Indoor Scenes**  
   **Yohan Park**, Hyunwoo Ha, Wonjun Jo, Tae-Hyun Oh  
   Under review.  
   [![arXiv](https://img.shields.io/badge/arXiv-2512.24985-b31b1b.svg)](https://arxiv.org/abs/2512.24985)
@@ -31,7 +31,7 @@ Looking ahead, I aim to build human-like embodied systems that can generate high
 
 ## **Research Experience**
 - Research Intern, <a href="https://ami.kaist.ac.kr/">AMI lab</a> @ KAIST SoC [Apr 2025 – Feb 2026] Advised by Prof. <a href="https://scholar.google.com/citations?user=dMCBjeIAAAAJ&hl=en">Tae-Hyun Oh</a>
-  - Built <a href="https://www.arxiv.org/abs/2512.24985">DarkEQA</a>, a controlled benchmark that disentangles low-light exposure loss and sensor noise, enabling evaluation of VLMs on EQA-relevant perceptual primitives
+  - Built <a href="https://www.arxiv.org/abs/2512.24985">DarkQA</a>, a controlled benchmark that disentangles low-light exposure loss and sensor noise, enabling evaluation of VLMs on EQA-relevant perceptual primitives
   - Developing a depth-aware perception module for embodied agents (ongoing; planned submission in 2026)
 
 - Research Intern, <a href="https://rirolab.kaist.ac.kr/">RIRO lab</a> @ KAIST SoC [Dec 2023 – Feb 2025] Advised Prof. <a href="https://scholar.google.com/citations?user=5mWSk04AAAAJ&hl=en">Daehyung Park</a>
