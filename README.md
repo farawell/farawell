@@ -4,7 +4,7 @@ I am an M.S. student at KAIST's <a href="https://ami.kaist.ac.kr/">AMI (Advanced
 Looking ahead, I aim to build human-like embodied systems that can generate high-level plans from instructions and perception, acquire new atomic skills, refine them at the action level from both observation and interaction using multimodal perceptual signals, and hierarchically compose these skills to execute the plans.
 
 ## Publications / Preprints
-- **DarkQA:Benchmarking Vision-Language Models for Visual-Primitive Question Answering in Low-Light Indoor Scenes**  
+- **DarkQA: Benchmarking Vision-Language Models for Visual-Primitive Question Answering in Low-Light Indoor Scenes**  
   **Yohan Park**, Hyunwoo Ha, Wonjun Jo, Tae-Hyun Oh  
   *IEEE Robotics and Automation Letters (RA-L)*, 2026.  
   [![arXiv](https://img.shields.io/badge/arXiv-2512.24985-b31b1b.svg)](https://arxiv.org/abs/2512.24985)
