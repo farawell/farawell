@@ -6,7 +6,7 @@ Looking ahead, I aim to build human-like embodied systems that can generate high
 ## Publications / Preprints
 - **DarkQA:Benchmarking Vision-Language Models for Visual-Primitive Question Answering in Low-Light Indoor Scenes**  
   **Yohan Park**, Hyunwoo Ha, Wonjun Jo, Tae-Hyun Oh  
-  Under review.  
+  IEEE Robotics and Automation Letters (RA-L), 2026
   [![arXiv](https://img.shields.io/badge/arXiv-2512.24985-b31b1b.svg)](https://arxiv.org/abs/2512.24985)
   [![PDF](https://img.shields.io/badge/PDF-download-blue.svg)](https://arxiv.org/pdf/2512.24985.pdf)  
 
