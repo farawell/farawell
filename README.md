@@ -12,7 +12,7 @@ Looking ahead, I aim to build human-like embodied systems that can generate high
 
 - **Reactive Constraint Relaxation for Urban Environment Navigation**  
   Jinwoo Kim, Keonyoung Koh, Samuel Seungsup Lee, **Yohan Park**, Daehyung Park  
-  In *International Conference on Robot Intelligence Technology and Applications*, pp. 219–230 (Springer, 2024).  
+  *International Conference on Robot Intelligence Technology and Applications (RiTA)*, pp. 219–230, 2024.  
   **Best Student Paper Award.**  
   [![Springer](https://img.shields.io/badge/Springer-chapter-0A66C2.svg)](https://link.springer.com/chapter/10.1007/978-3-031-92011-0_18)
 
